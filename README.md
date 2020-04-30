@@ -1,2 +1,2 @@
-# Sta 663 FinalProj VAE
-STA 663 Final Project
+# Sta 663 Final Project
+Implementation of Auto-Encoding Variational Bayes
