@@ -20,7 +20,7 @@ To use the modules:
 
 `from VAE import VAE`.
 
-Refer to examples in author GitHub repository for how to use the package. 
+Refer to examples in authors' GitHub repositories for how to use the package. 
 
 https://github.com/christineymshen/sta-663-FinalProj-VAE, or
 https://github.com/RV29/VAE
